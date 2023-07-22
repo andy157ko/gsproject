@@ -1,0 +1,11 @@
+body {
+    background-color: #4949db;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin: 40px;
+}
+
+canvas{
+    height: 200px;
+    border: 1px solid white;
+}
